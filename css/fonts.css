@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Dancing Script';
+    src: url(../fonts/'DancingScript-Bold.eot');
+    src: url(../fonts/'DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
+        url(../fonts/'DancingScript-Bold.woff2') format('woff2'),
+        url(../fonts/'DancingScript-Bold.woff') format('woff'),
+        url(../fonts/'DancingScript-Bold.ttf') format('truetype'),
+        url(../fonts/'DancingScript-Bold.svg#DancingScript-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Exo';
+    src: url(../fonts/'Exo-LightItalic.eot');
+    src: url(../fonts/'Exo-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url(../fonts/'Exo-LightItalic.woff2') format('woff2'),
+        url(../fonts/'Exo-LightItalic.woff') format('woff'),
+        url(../fonts/'Exo-LightItalic.ttf') format('truetype'),
+        url(../fonts/'Exo-LightItalic.svg#Exo-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}

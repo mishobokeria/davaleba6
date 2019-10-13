@@ -1,0 +1,112 @@
+/*base classes*/
+html,body{
+	width: 100%;
+	height: 100%;
+	
+}
+h3{
+	color: white;
+}
+body{
+	background: #1877A6;
+}
+.section{
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.d-inline-block{
+	display: inline-block;
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+.p-relative{
+	position: relative;
+}
+.p-absolute{
+	position: absolute;
+}
+
+/*end base classes*/
+
+
+/*header*/
+.main-header{
+	height: 10%;
+}
+.logo{
+	width: 70px;
+	margin-left: 30px;
+}
+
+.nav{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	text-transform: uppercase;
+
+}
+
+/*end header*/
+
+
+/*body*/
+.nav-li{
+	margin-left: 20px;
+}
+.text{
+	left:15%;
+    bottom: 59%;
+   
+}
+.text2{
+	right: 18%;
+	bottom: 59%;
+}
+.text3{
+    left: 13%;
+    bottom: 12%;
+}
+.text4{
+	right: 18%;
+	bottom: 12%
+
+}
+
+.section::after{
+	clear: both;
+}
+
+
+.container::after{
+	clear: both;
+	
+}
+.clear::after{
+	clear: both;
+}
+
+.box:first-child{
+	margin-left:;
+		
+}
+.box img{
+	height: 250px;
+}
+
+.box:nth-child(2){
+	margin-left:25%;
+	height: 
+	background: 
+}
+.box:nth-child(3){
+	margin-top:5%;
+	}
+	.box:nth-child(4){
+		margin-left:25%;
+	}
+
+/*end body
