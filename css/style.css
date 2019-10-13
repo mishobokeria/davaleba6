@@ -4,8 +4,14 @@ html,body{
 	height: 100%;
 	
 }
-h3{
+a{
 	color: white;
+}
+h3{
+    border: 3px inset grey;
+	color: white;
+	font-size: 22px;
+	font-family: "ALKDots", sans-serif;
 }
 body{
 	background: #1877A6;
@@ -58,20 +64,20 @@ body{
 	margin-left: 20px;
 }
 .text{
-	left:15%;
-    bottom: 59%;
+	left:11%;
+    bottom: 57%;
    
 }
 .text2{
-	right: 18%;
+	right: 15%;
 	bottom: 59%;
 }
 .text3{
     left: 13%;
-    bottom: 12%;
+    bottom: 10%;
 }
 .text4{
-	right: 18%;
+	right: 8%;
 	bottom: 12%
 
 }
@@ -90,8 +96,11 @@ body{
 }
 
 .box:first-child{
-	margin-left:;
+	
 		
+}
+.box{
+
 }
 .box img{
 	height: 250px;
